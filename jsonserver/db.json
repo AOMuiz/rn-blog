@@ -1,3 +1,29 @@
 {
-  "blogposts": []
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "API CONTENT"
+    },
+    {
+      "title": "new blog",
+      "content": "api create blog",
+      "id": 2
+    },
+    {
+      "title": "Third blog post",
+      "content": "third blogpost created",
+      "id": 3
+    },
+    {
+      "title": "four",
+      "content": "fouth blog",
+      "id": 4
+    },
+    {
+      "title": "5",
+      "content": "5",
+      "id": 5
+    }
+  ]
 }
